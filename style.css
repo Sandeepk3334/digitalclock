@@ -6,6 +6,7 @@ body{
     background-color: rgba(0, 0, 0, 0.473);
     background-blend-mode: multiply;
     background-size: cover;
+    background-repeat: no-repeat;
     color: #F2F2F2;
 }
 
